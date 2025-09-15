@@ -1,4 +1,4 @@
-public class break4 {
+public class Break4 {
   public static void main(String [] args){
     int num = 2016;
 
