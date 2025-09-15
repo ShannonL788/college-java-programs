@@ -1,4 +1,7 @@
 # createInts
+
+## Problem
+
 Write a program that declares 4 variables of type int named num1, num2, num3, num4 and initialise each one to have a different value.
  
 Add all 4 numbers together and print the output to the screen
