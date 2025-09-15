@@ -8,14 +8,14 @@ Write a program that initialises two variables to store whole numbers and a vari
 
 9 3 +
 
-### Sample Output
+### Sample Output 1
 
 12
 
-### Sample Input 1
+### Sample Input 2
 
 24 4 /
 
-### Sample Output
+### Sample Output 2
 
 6
