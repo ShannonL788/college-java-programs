@@ -8,7 +8,7 @@ Write a java program that will take a String in as user input and then print out
 
 Apple
 
-### Sample Output 2
+### Sample Output 1
 
 Apple
 
