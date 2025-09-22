@@ -1,5 +1,5 @@
 
-# DetermineSize
+# Palindromes
 
 In a java program, write a method called isPalindrome() that accepts a String parameter and returns a Boolean. This method should check if the String is a Palindrome and return an appropriate boolean value. Your method should work irrespective of case. In the main method, you should call the method with a user inputted String being passed into isPalindrome().
 
